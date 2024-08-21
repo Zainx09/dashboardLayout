@@ -1,0 +1,35 @@
+.summary-card {
+    position: relative;
+    border-radius: 5px;
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.summary-card-content {
+    text-align: left;
+}
+
+.summary-card-content h2 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+.summary-card-content h4 {
+    margin: 5px 0;
+    font-size: 1.2rem;
+}
+
+.summary-card-content p {
+    margin: 0;
+    font-size: 0.9rem;
+    opacity: 0.7;
+}
+
+.summary-card-icon {
+    font-size: 1.5rem;
+    opacity: 0.3;
+}
